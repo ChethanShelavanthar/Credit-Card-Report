@@ -141,4 +141,5 @@ Customers with higher income and education generate more revenue.
 Certain states and professions consistently outperform others.
 
 Screenshots / Demo
-Example : [project overview] 
+Example : [project overview] https://github.com/ChethanShelavanthar/Credit-Card-Report/blob/main/credit_card_customer%20report.png
+                             https://github.com/ChethanShelavanthar/Credit-Card-Report/blob/main/cc%20transaction.png
